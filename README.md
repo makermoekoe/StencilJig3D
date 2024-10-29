@@ -6,9 +6,9 @@ A simple yet precise stencil printing jig for small, non-framework stencils. Cur
 
 For a complete stencil jig you have to print everything once (bar1 and bar2 are actually the same object). I've chosen PLA-CF in black and red from Bambulab.
 
-Assembly: (watch video)[https://www.instagram.com/maker.moekoe/reel/DBY5iGSNjgy/]
+Assembly: [watch video](https://www.instagram.com/maker.moekoe/reel/DBY5iGSNjgy/)
 
-Solder paste result: (watch video)[https://www.instagram.com/maker.moekoe/reel/DBiVZ_9N4vV/]
+Solder paste result: [watch video](https://www.instagram.com/maker.moekoe/reel/DBiVZ_9N4vV/)
 
 ### What you need except the prints
 
