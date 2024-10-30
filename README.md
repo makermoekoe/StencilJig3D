@@ -2,9 +2,13 @@
 
 <img src="docs/stenciljig3d.JPG" width="350px"></a>
 
-A simple yet precise stencil printing jig for small, non-framework stencils. Currently supporting PCBs with a thickness of 1.6mm and 1.0mm. The three PCB guide bars (bar1, bar2 and bar_top) can be rotated 180deg to switch between these thicknesses.
+A simple yet precise stencil printing jig for small, non-framework stencils. The three PCB guide bars (bar1, bar2 and bar_top) can be rotated 180deg to switch between following thicknesses.
 
-For a complete stencil jig you have to print everything once (bar1 and bar2 are actually the same object). I've chosen PLA-CF in black and red from Bambulab.
+- 0.6mm & 0.8mm
+- 1.0mm & 1.6mm
+- 1.2mm & 2.0mm
+
+For a complete stencil jig you have to print bar1, bar2 and bar_top with the wanted thicknesses, one base and the PCB pusher according to the bar guides (small for 0.6mm/0.8mm, normal for 1.0mm/1.6mm and big for 1.2mm/2.0mm). I've chosen PLA-CF in black and red from Bambulab.
 
 Assembly: [watch video](https://www.instagram.com/maker.moekoe/reel/DBY5iGSNjgy/)
 
